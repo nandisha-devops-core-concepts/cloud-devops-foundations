@@ -1,4 +1,4 @@
-# Day 2: Write Your First Dockerfile, and Push to Docker Hub 
+# Write Your First Dockerfile, and Push to Docker Hub 
 
 
 
