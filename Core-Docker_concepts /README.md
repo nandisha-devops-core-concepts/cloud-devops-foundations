@@ -1,4 +1,4 @@
-# Day 2: Write Your First Dockerfile, and Push to Docker Hub | CKA Certification Course 2025
+# Day 2: Write Your First Dockerfile, and Push to Docker Hub 
 
 
 
